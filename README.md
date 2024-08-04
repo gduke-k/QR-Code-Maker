@@ -1,5 +1,7 @@
 # QR-Code-Maker
 
+## ![image](https://github.com/user-attachments/assets/5b74bf73-bc6a-4730-b368-0cea124729b6)
+
 This is a simple web application that generates a QR code from a URL. The app also includes a feature to print the QR code along with the URL. 
 
 ## Features
